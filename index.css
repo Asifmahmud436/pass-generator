@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    background: #1F2937;
+    color: white;
+    
+}
+
+#rand{
+    color: #10B981;
+}
+
+button{
+    color: #E5E7EB;
+    
+    background: #10B981;
+    padding: 5px 10px;
+    border-radius: 4px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+#never{
+    margin-top:0px; 
+}
+
+h1{
+    margin-bottom: 0px;
+}
+
+#pass{
+    display: flex;
+    justify-content: space-around;
+    color: #10B981;
+    
+}
+
+#pass1{
+    border-radius: 4px;
+    border: 1px solid #374151;
+    background: #374151;
+    padding: 3px 7px;
+}
+
+#pass2{
+    border-radius: 4px;
+    border: 1px solid #374151;
+    background: #374151;
+    padding: 3px 7px;
+}
+
+
